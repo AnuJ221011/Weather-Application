@@ -24,7 +24,7 @@ JavaScript (ES6+) – For fetching and displaying weather data.
 API – wttr.in for weather data.
 
 ## Usage Instructions
-Visit the live website to check the weather forecast: Click Here to Visit the Weather Forecast App
+Visit the live website to check the weather forecast: [https://weather-application-eta-seven.vercel.app/]
 1) Open the website.
 2) Enter a city name in the input field.
 3) Press Enter or click the fetch button.
